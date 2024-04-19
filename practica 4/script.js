@@ -13,7 +13,7 @@ let solicitarCantidades = (array) => {
   console.log(array);
 };
 
-solicitarCantidades(cantidades);
+// solicitarCantidades(cantidades);
 
 function sacarMayor(array) {
   let mayor = array[0];
@@ -25,7 +25,7 @@ function sacarMayor(array) {
   console.log(`el numero mayor es ${mayor}`);
 }
 
-sacarMayor(cantidades);
+// sacarMayor(cantidades);
 // https://drive.google.com/file/d/1Czm2fLYEr0vFxL9ONTFZt2KaeVNX3Pm8/view
 
 
