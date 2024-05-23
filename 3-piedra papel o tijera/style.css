@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #E8AA14;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container{
+  background-color: #FAF33E;
+  border-radius: 50px;
+}
+.cardJuego{
+  background-color: red;
+  border-radius: 50px;
+}
+
